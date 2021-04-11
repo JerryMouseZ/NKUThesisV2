@@ -1,4 +1,6 @@
 *.blg
+*.bcf
+*.bbl
 *.log
 *.out
 *.toc
