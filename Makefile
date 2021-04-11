@@ -5,4 +5,4 @@ ALL:
 	rm *.aux *.out *.blg *.toc *.bbl *.bcf
 
 clean:
-	rm main.pdf
+	rm main.pdf main.run.xml main.log
