@@ -6,4 +6,4 @@
 *.toc
 *.aux
 main.pdf
-*.xml
+main.run.xml
