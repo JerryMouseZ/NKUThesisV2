@@ -1,0 +1,522 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ChenCheChen2001}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2ac15404c8cf593a6c9ff17fef46ad63}{%
+           family={陈建军},
+           familyi={陈\bibinitperiod}}}%
+        {{hash=3ebac217e34f44d546b99acb6df05af9}{%
+           family={车建文},
+           familyi={车\bibinitperiod}}}%
+        {{hash=107388e5feb77b41f5bada850ba74484}{%
+           family={陈勇},
+           familyi={陈\bibinitperiod}}}%
+      }
+      \strng{namehash}{387ce8fbef65da73e9a70a129185bb2b}
+      \strng{fullhash}{387ce8fbef65da73e9a70a129185bb2b}
+      \strng{bibnamehash}{387ce8fbef65da73e9a70a129185bb2b}
+      \strng{authorbibnamehash}{387ce8fbef65da73e9a70a129185bb2b}
+      \strng{authornamehash}{387ce8fbef65da73e9a70a129185bb2b}
+      \strng{authorfullhash}{387ce8fbef65da73e9a70a129185bb2b}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{计算力学学报}
+      \field{number}{1}
+      \field{title}{具有频率和振型概率约束的工程结构动力优化设计}
+      \field{type}{J}
+      \field{userf}{zh}
+      \field{volume}{18}
+      \field{year}{2001}
+      \field{pages}{74\bibrangedash 80}
+      \range{pages}{7}
+    \endentry
+    \entry{Nadkarni-1992}{article}{}
+      \name{author}{4}{}{%
+        {{hash=71fe465421d444578104e42222f05f57}{%
+           family={Nadkarni},
+           familyi={N\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4227eaa627d46deef9afd0a0f426512a}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={C.\bibnamedelimi K.\bibnamedelimi K.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=79c91ff9119b6663895d2669d2b84a00}{%
+           family={Pandey},
+           familyi={P\bibinitperiod},
+           given={V.\bibnamedelimi N.},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=b97510d6ca169a8b46eba79ae5684640}{%
+           family={Others},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f28ebae738c9fa91648dbc92d91ebd08}
+      \strng{fullhash}{a2f63d5726f35de05542709733189f31}
+      \strng{bibnamehash}{f28ebae738c9fa91648dbc92d91ebd08}
+      \strng{authorbibnamehash}{f28ebae738c9fa91648dbc92d91ebd08}
+      \strng{authornamehash}{f28ebae738c9fa91648dbc92d91ebd08}
+      \strng{authorfullhash}{a2f63d5726f35de05542709733189f31}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J Gen App Microbiol}
+      \field{title}{Characterzation of alpha-galactosidase from corynebacterium murisepticum and mechanism of its induction}
+      \field{type}{J}
+      \field{volume}{38}
+      \field{year}{1992}
+      \field{pages}{223\bibrangedash 234}
+      \range{pages}{12}
+    \endentry
+    \entry{Hua-Wang-1973}{article}{}
+      \name{author}{2}{}{%
+        {{hash=23939d649f05284eb9c05474adecd362}{%
+           family={华罗庚},
+           familyi={华\bibinitperiod}}}%
+        {{hash=13e06c3f9aaaa0da7972efb028f629a6}{%
+           family={王元},
+           familyi={王\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a3e08642929c2d7ab98105f8caf96fe}
+      \strng{fullhash}{5a3e08642929c2d7ab98105f8caf96fe}
+      \strng{bibnamehash}{5a3e08642929c2d7ab98105f8caf96fe}
+      \strng{authorbibnamehash}{5a3e08642929c2d7ab98105f8caf96fe}
+      \strng{authornamehash}{5a3e08642929c2d7ab98105f8caf96fe}
+      \strng{authorfullhash}{5a3e08642929c2d7ab98105f8caf96fe}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{中国科学}
+      \field{number}{4}
+      \field{title}{论一致分布与近似分析：数论方法(I)}
+      \field{type}{J}
+      \field{userf}{zh}
+      \field{year}{1973}
+      \field{pages}{339\bibrangedash 357}
+      \range{pages}{19}
+    \endentry
+    \entry{ZhuKeZhen}{book}{}
+      \name{author}{1}{}{%
+        {{hash=765ecab372fef66ccb7905f847882426}{%
+           family={竺可桢},
+           familyi={竺\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {北京}%
+      }
+      \list{publisher}{1}{%
+        {科学出版社}%
+      }
+      \strng{namehash}{765ecab372fef66ccb7905f847882426}
+      \strng{fullhash}{765ecab372fef66ccb7905f847882426}
+      \strng{bibnamehash}{765ecab372fef66ccb7905f847882426}
+      \strng{authorbibnamehash}{765ecab372fef66ccb7905f847882426}
+      \strng{authornamehash}{765ecab372fef66ccb7905f847882426}
+      \strng{authorfullhash}{765ecab372fef66ccb7905f847882426}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{物候学}
+      \field{type}{M}
+      \field{userf}{zh}
+      \field{year}{1973}
+    \endentry
+    \entry{Huo}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4f4a2f0df56c1ef8bd0c442f079a5a0b}{%
+           family={霍夫斯塔主编},
+           familyi={霍\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=44d0d7945f4533a9cb639dd9fbbcd0fe}{%
+           family={胡祥壁},
+           familyi={胡\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {北京}%
+      }
+      \list{publisher}{1}{%
+        {农业出版社}%
+      }
+      \strng{namehash}{4f4a2f0df56c1ef8bd0c442f079a5a0b}
+      \strng{fullhash}{4f4a2f0df56c1ef8bd0c442f079a5a0b}
+      \strng{bibnamehash}{4f4a2f0df56c1ef8bd0c442f079a5a0b}
+      \strng{authorbibnamehash}{4f4a2f0df56c1ef8bd0c442f079a5a0b}
+      \strng{authornamehash}{4f4a2f0df56c1ef8bd0c442f079a5a0b}
+      \strng{authorfullhash}{4f4a2f0df56c1ef8bd0c442f079a5a0b}
+      \strng{translatorbibnamehash}{44d0d7945f4533a9cb639dd9fbbcd0fe}
+      \strng{translatornamehash}{44d0d7945f4533a9cb639dd9fbbcd0fe}
+      \strng{translatorfullhash}{44d0d7945f4533a9cb639dd9fbbcd0fe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{禽病学：下册．第7版}
+      \field{type}{M}
+      \field{userf}{zh}
+      \field{year}{1981}
+      \field{pages}{798\bibrangedash 799}
+      \range{pages}{2}
+    \endentry
+    \entry{JiangXiZhou}{patent}{}
+      \name{author}{1}{}{%
+        {{hash=9ae43bbc6bdaffd3c534e59c40a86698}{%
+           family={姜锡洲},
+           familyi={姜\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {中国}%
+      }
+      \strng{namehash}{9ae43bbc6bdaffd3c534e59c40a86698}
+      \strng{fullhash}{9ae43bbc6bdaffd3c534e59c40a86698}
+      \strng{bibnamehash}{9ae43bbc6bdaffd3c534e59c40a86698}
+      \strng{authorbibnamehash}{9ae43bbc6bdaffd3c534e59c40a86698}
+      \strng{authornamehash}{9ae43bbc6bdaffd3c534e59c40a86698}
+      \strng{authorfullhash}{9ae43bbc6bdaffd3c534e59c40a86698}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{7}
+      \field{number}{88105607.3}
+      \field{title}{一种温热外敷药制备方案}
+      \field{type}{P}
+      \field{userf}{zh}
+      \field{year}{1989}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Timoshenko}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f176b3819ffa4addacf4c5935859c839}{%
+           family={Timoshenko},
+           familyi={T\bibinitperiod},
+           given={S.\bibnamedelimi P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hil1}%
+      }
+      \strng{namehash}{f176b3819ffa4addacf4c5935859c839}
+      \strng{fullhash}{f176b3819ffa4addacf4c5935859c839}
+      \strng{bibnamehash}{f176b3819ffa4addacf4c5935859c839}
+      \strng{authorbibnamehash}{f176b3819ffa4addacf4c5935859c839}
+      \strng{authornamehash}{f176b3819ffa4addacf4c5935859c839}
+      \strng{authorfullhash}{f176b3819ffa4addacf4c5935859c839}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory of plate and shells．2nd ed.}
+      \field{type}{M}
+      \field{year}{1959}
+      \field{pages}{17\bibrangedash 36}
+      \range{pages}{20}
+    \endentry
+    \entry{Zhang-Wang}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=98725d62b2b3e2326371386dec0da31a}{%
+           family={张全福},
+           familyi={张\bibinitperiod}}}%
+        {{hash=319ce8f9469c4917083489769fcb1211}{%
+           family={王里青},
+           familyi={王\bibinitperiod}}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=3787ab18e24ad7f4ada23eebe0a920f0}{%
+           family={郑福寿},
+           familyi={郑\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {南京}%
+      }
+      \list{publisher}{1}{%
+        {河海大学出版社}%
+      }
+      \strng{namehash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{fullhash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{bibnamehash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{authorbibnamehash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{authornamehash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{authorfullhash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{bookauthorbibnamehash}{3787ab18e24ad7f4ada23eebe0a920f0}
+      \strng{bookauthornamehash}{3787ab18e24ad7f4ada23eebe0a920f0}
+      \strng{bookauthorfullhash}{3787ab18e24ad7f4ada23eebe0a920f0}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{学报编辑论丛：第2集}
+      \field{title}{“百家争鸣”与理工科学报编辑工作}
+      \field{type}{M}
+      \field{userf}{zh}
+      \field{year}{1991}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
+    \entry{PQEMU}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=98725d62b2b3e2326371386dec0da31a}{%
+           family={张全福},
+           familyi={张\bibinitperiod}}}%
+        {{hash=319ce8f9469c4917083489769fcb1211}{%
+           family={王里青},
+           familyi={王\bibinitperiod}}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=3787ab18e24ad7f4ada23eebe0a920f0}{%
+           family={郑福寿},
+           familyi={郑\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {南京}%
+      }
+      \list{publisher}{1}{%
+        {河海大学出版社}%
+      }
+      \strng{namehash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{fullhash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{bibnamehash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{authorbibnamehash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{authornamehash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{authorfullhash}{f1e431c233c327f3d965d56f4a686113}
+      \strng{bookauthorbibnamehash}{3787ab18e24ad7f4ada23eebe0a920f0}
+      \strng{bookauthornamehash}{3787ab18e24ad7f4ada23eebe0a920f0}
+      \strng{bookauthorfullhash}{3787ab18e24ad7f4ada23eebe0a920f0}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{学报编辑论丛：第2集}
+      \field{title}{“百家争鸣”与理工科学报编辑工作}
+      \field{type}{M}
+      \field{userf}{zh}
+      \field{year}{1991}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
+    \entry{li1988ivy}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4838f7fdd28d5cefb28f3b3c734976d4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{4838f7fdd28d5cefb28f3b3c734976d4}
+      \strng{fullhash}{4838f7fdd28d5cefb28f3b3c734976d4}
+      \strng{bibnamehash}{4838f7fdd28d5cefb28f3b3c734976d4}
+      \strng{authorbibnamehash}{4838f7fdd28d5cefb28f3b3c734976d4}
+      \strng{authornamehash}{4838f7fdd28d5cefb28f3b3c734976d4}
+      \strng{authorfullhash}{4838f7fdd28d5cefb28f3b3c734976d4}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ICPP (2)}
+      \field{title}{IVY: A Shared Virtual Memory System for Parallel Computing.}
+      \field{volume}{88}
+      \field{year}{1988}
+      \field{pages}{94}
+      \range{pages}{1}
+    \endentry
+    \entry{hong2012hqemu}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=875dd65c6f9e09afed1329060883fbcd}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Ding-Yong},
+           giveni={D\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=42a0bf7386551ab7b2ef76b3fff5ad97}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Chun-Chen},
+           giveni={C\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=903c0821869e1409454d178df5093bb1}{%
+           family={Yew},
+           familyi={Y\bibinitperiod},
+           given={Pen-Chung},
+           giveni={P\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=2584cfd5e0897bf21a8eb46c8d27306f}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jan-Jan},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=59eff1482afbcb6d7e01d07362be6df7}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Wei-Chung},
+           giveni={W\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=ed8f1e8e1bc502b398bacc842cb3f6f9}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Pangfeng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fffff9dee667de2ee6c118b4164f3e3f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chien-Min},
+           giveni={C\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=fe7c5a24c5f8ba81d41811c68a998363}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Yeh-Ching},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{5dead1e05fe61a3103eb9fb2e5654bb9}
+      \strng{fullhash}{41511fe3b3d1413228cb1ec158a07add}
+      \strng{bibnamehash}{5dead1e05fe61a3103eb9fb2e5654bb9}
+      \strng{authorbibnamehash}{5dead1e05fe61a3103eb9fb2e5654bb9}
+      \strng{authornamehash}{5dead1e05fe61a3103eb9fb2e5654bb9}
+      \strng{authorfullhash}{41511fe3b3d1413228cb1ec158a07add}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Tenth International Symposium on Code Generation and Optimization}
+      \field{title}{HQEMU: a multi-threaded and retargetable dynamic binary translator on multicores}
+      \field{year}{2012}
+      \field{pages}{104\bibrangedash 113}
+      \range{pages}{10}
+    \endentry
+    \entry{zaharia2010spark}{article}{}
+      \name{author}{5}{}{%
+        {{hash=00dc518b94dfa6349c86e70661a1a5ef}{%
+           family={Zaharia},
+           familyi={Z\bibinitperiod},
+           given={Matei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c5a8ae0d5f065be17aae440a9eb11c79}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Mosharaf},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2b80efa845ff86794acc83783899dcf0}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8d2fd528d2484047352789c731e250a5}{%
+           family={Shenker},
+           familyi={S\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=51d9ef26181e2e8a9dc546b401e0bb26}{%
+           family={Stoica},
+           familyi={S\bibinitperiod},
+           given={Ion},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{43c304856562a1cbfaf241dac3427533}
+      \strng{fullhash}{6f76db0409769a7411dc03216ecf2122}
+      \strng{bibnamehash}{43c304856562a1cbfaf241dac3427533}
+      \strng{authorbibnamehash}{43c304856562a1cbfaf241dac3427533}
+      \strng{authornamehash}{43c304856562a1cbfaf241dac3427533}
+      \strng{authorfullhash}{6f76db0409769a7411dc03216ecf2122}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HotCloud}
+      \field{number}{10-10}
+      \field{title}{Spark: Cluster computing with working sets.}
+      \field{volume}{10}
+      \field{year}{2010}
+      \field{pages}{95}
+      \range{pages}{1}
+    \endentry
+    \entry{wenwenasplos2018}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=934a5f4ea974cc1780f6c917f4979311}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wenwen},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e06f649f39eaa2b2d69ba4e62b41287e}{%
+           family={McCamant},
+           familyi={M\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5612a21acb0dc16bd419a315d18a831f}{%
+           family={Zhai},
+           familyi={Z\bibinitperiod},
+           given={Antonia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=903c0821869e1409454d178df5093bb1}{%
+           family={Yew},
+           familyi={Y\bibinitperiod},
+           given={Pen-Chung},
+           giveni={P\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Williamsburg, VA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{a8641763c0e205061b6fb029c0a9c0d3}
+      \strng{fullhash}{7220da5d1b0388c1fc999fb463d58155}
+      \strng{bibnamehash}{a8641763c0e205061b6fb029c0a9c0d3}
+      \strng{authorbibnamehash}{a8641763c0e205061b6fb029c0a9c0d3}
+      \strng{authornamehash}{a8641763c0e205061b6fb029c0a9c0d3}
+      \strng{authorfullhash}{7220da5d1b0388c1fc999fb463d58155}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Twenty-Third International Conference on Architectural Support for Programming Languages and Operating Systems}
+      \field{isbn}{9781450349116}
+      \field{series}{ASPLOS ’18}
+      \field{title}{Enhancing Cross-ISA DBT Through Automatically Learned Translation Rules}
+      \field{year}{2018}
+      \field{pages}{84\bibrangedash 97}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1145/3173162.3177160
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3173162.3177160
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3173162.3177160
+      \endverb
+      \keyw{DBT,symbolic execution,rule learning}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
