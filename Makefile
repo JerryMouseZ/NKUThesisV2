@@ -6,3 +6,6 @@ ALL:
 
 clean:
 	rm main.pdf main.run.xml main.log
+
+zip:
+	zip nkthesis.zip *.tex *.bbx *.bib *.cbx *.sty fonts/*
